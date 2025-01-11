@@ -19,11 +19,11 @@ nav{
     font-weight: bold;
     font-size: 32px;
 }
-.sign-in{
-    font-weight: 600;
+input{
+  font-weight: 600;
     font-size: 18px;
-    color: 006A50;
-    border: none;
+    color: #006A50;
+    border: 1px solid #0b8062;
     border-radius: 5px;
     padding: 15px 30px;
 }
@@ -42,7 +42,7 @@ nav{
 .banner-title{
     font-size: 24px;
     font-weight: 500;
-    color: #72bd9a;
+    color: #79817d;
 }
 .banner-description{
     font-size: 56px;
